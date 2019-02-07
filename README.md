@@ -1,7 +1,8 @@
 # hello-world
 
 Going through a tutorial covering how to create a project and make a pull request on GitHub.
-https://guides.github.com/activities/hello-world/
+
+Link: https://guides.github.com/activities/hello-world/
 
 # What I Learned
 
